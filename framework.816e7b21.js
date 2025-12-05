@@ -115,4 +115,4 @@ const config = {
 const ctx = document.getElementById("sales-chart");
 new Chart(ctx, config);
 
-//# sourceMappingURL=framework.44983732.js.map
+//# sourceMappingURL=framework.816e7b21.js.map
