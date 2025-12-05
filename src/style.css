@@ -1,0 +1,17 @@
+body {
+            text-align: center;
+            font-size: 30px;
+            padding: 50px;
+        }
+        #key {
+            font-size: 100px;
+            color: blue;
+        }
+        #score {
+            font-size: 50px;
+            color: green;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 20px;
+        }
